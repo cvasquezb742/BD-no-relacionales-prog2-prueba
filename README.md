@@ -8,7 +8,6 @@ Este proyecto tiene como objetivo investigar, comprender y aplicar los principio
 Universidad Mariano Gálvez  
 Curso: Programación II  
 Seccion: "C"
-
 Fecha: Noviembre 2025
 
 ## Contenido
