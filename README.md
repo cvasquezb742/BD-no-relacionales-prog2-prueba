@@ -7,7 +7,7 @@ Este proyecto tiene como objetivo investigar, comprender y aplicar los principio
 **Christofer Josue Vasquez Baltazar**  
 Universidad Mariano Gálvez  
 Curso: Programación II  
-Seccion: "C"
+Seccion: -C-
 Fecha: Noviembre 2025
 
 ## Contenido
